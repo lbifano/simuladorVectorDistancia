@@ -1,0 +1,59 @@
+{ "nodos": [
+    { "nombre": "A",
+      "posicion-x": 100,
+      "posicion-y": 50,
+      "potencia": 75,
+      "rango-maximo":110,
+      "vecinos":{},
+      "rutas":{}
+    },
+    { "nombre": "B",
+      "posicion-x": 150,
+      "posicion-y": 50,
+      "potencia": 75,
+      "rango-maximo":110,
+      "vecinos":{},
+      "rutas":{}
+    },
+    { "nombre": "C",
+      "posicion-x": 100,
+      "posicion-y": 150,
+      "potencia": 75,
+      "rango-maximo":110,
+      "vecinos":{},
+      "rutas":{}
+    },
+    { "nombre": "D",
+      "posicion-x": 200,
+      "posicion-y": 50,
+      "potencia": 75,
+      "rango-maximo":110,
+      "vecinos":{},
+      "rutas":{}
+    },
+    { "nombre": "E",
+      "posicion-x": 200,
+      "posicion-y": 150,
+      "potencia": 75,
+      "rango-maximo":110,
+      "vecinos":{},
+      "rutas":{}
+    },
+    { "nombre": "F",
+      "posicion-x": 250,
+      "posicion-y": 200,
+      "potencia": 75,
+      "rango-maximo":115,
+      "vecinos":{},
+      "rutas":{}
+    },
+    { "nombre": "G",
+      "posicion-x": 300,
+      "posicion-y": 300,
+      "potencia": 75,
+      "rango-maximo":115,
+      "vecinos":{},
+      "rutas":{}
+    }
+  ]
+} 
